@@ -9,7 +9,7 @@ header('Content-Type: application/json');
 date_default_timezone_set('Asia/Jakarta');
 
 // URL halaman web
-$url = "https://sipp-banding.mahkamahagung.go.id/slide_sidang_publik/M2FoVEk5Vi95Tjc4Z1AwYnhDRjlpaDc1bG1BQlRHLzNsQ2tJNzBJanFFczNaU3pQdXRpbVNmUmlEYXhxRHJGWXAwUVlaZ0tzRS9mUnlPY2I4Y2hGRnc9PQ==";
+$url = "https://sipp-banding.mahkamahagung.go.id/slide_sidang_publik/cmhPTGtWaDFIeE1PK0lOelRxS2hweHhLK0RWeDl6dkVTNVZlL0lLUFZhOHo0a2ZYQkphNzQ2RDB6M2FoZmpjVkVCSG9WT3Bldjl0aDRDZERuR3JVcnc9PQ==";
 
 // Inisialisasi cURL
 $ch = curl_init($url);
